@@ -9,7 +9,7 @@
 I design and operate enterprise networks across data center, branch, and cloud — bridging classic routing & switching with SDN, multi-cloud, and automation. Currently working on networking problems on **AWS, Azure, and GCP**.
 
 #### What I'm into
-- 🛠️ Building tools for network engineers — see [**ACI-Dashboard**](https://license.madolka.com/dashboard)/)
+- 🛠️ Building tools for network engineers — see [**ACI-Dashboard**](https://license.madolka.com/dashboard)
 -  [**net-tool-imadol.com**](https://net-tool-imadol.com/)
 - ☸️ [**K8s AI Agent**](https://github.com/imadol-ccie/K8s-AI-Agent-GUI) — natural-language Kubernetes dashboard (LangChain + Gemini)
 - 🌐 SDN (Cisco ACI), SD-WAN (Meraki / Cisco / Fortinet), DMVPN, firewalls
